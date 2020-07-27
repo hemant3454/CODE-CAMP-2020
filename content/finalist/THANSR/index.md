@@ -63,7 +63,7 @@ _**University/School**_ : SRM IST
 
 _**Role-In-Team**_  : Frontend Developer (Using Bootstrap and PHP)
 
-_**Working-Stack**_ : Sublime Text , Visual Studio , PHP and Botstrap.
+_**Working-Stack**_ : Sublime Text , Visual Studio , PHP and Bootstrap.
 
 _**University/School**_ : SRM IST
 
